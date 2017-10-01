@@ -1,4 +1,0 @@
-# host_name
-
-TODO: Enter the cookbook description here.
-
